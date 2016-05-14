@@ -1,0 +1,1 @@
+Performing a search without any constraints is an easy way to get sample data
