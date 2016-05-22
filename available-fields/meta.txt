@@ -1,0 +1,2 @@
+Available fields can be found by accessing the corresponding _mapping endpoint.
+
