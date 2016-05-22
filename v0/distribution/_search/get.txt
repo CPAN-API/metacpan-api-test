@@ -1,2 +1,6 @@
 200 OK
-generator: shards_header()
+hits
+took
+timed_out
+_shards
+
