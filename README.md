@@ -10,7 +10,7 @@ Tests for the API
 
     carton exec swat
 
-# Show tested routes:
+# Show tested routes
 
 
     $ find v0/ -name *.txt -exec perl -MFile::Basename -e 'print "\n", dirname $ARGV[0]' {} \; | sort
